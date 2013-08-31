@@ -1,0 +1,12 @@
+com.dsi.ant.plugins.antplus.common
+com.dsi.ant.plugins.antplus.pcc
+com.dsi.ant.plugins.antplus.pcc.controls
+com.dsi.ant.plugins.antplus.pcc.controls.defines
+com.dsi.ant.plugins.antplus.pcc.defines
+com.dsi.ant.plugins.antplus.pccbase
+com.dsi.ant.plugins.internal.compatibility
+com.dsi.ant.plugins.internal.pluginsipc
+com.dsi.ant.plugins.pluginlib
+com.dsi.ant.plugins.pluginlib.version
+com.dsi.ant.plugins.utility.log
+com.dsi.ant.plugins.utility.uuid
