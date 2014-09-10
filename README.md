@@ -1,3 +1,3 @@
-Android_API_ANTPlus
+ANT+ Android API
 ===================
-Note: This repo is out of date and will be removed in the future. To access the ANT+ API please refer to the SDK repo at https://github.com/ant-wireless/ANT-Android-SDKs.
+An Android library project (that can be included in other Android projects) which adds the ANT+ (and FIT) API. Javadoc is included. 
